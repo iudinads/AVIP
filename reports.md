@@ -118,11 +118,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_0.png)
+![Изображение](symbol_0.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_0_x_profile.png)
-![Профиль Y](symbols/symbol_0_y_profile.png)
+![Профиль X](symbol_0_x_profile.png)
+![Профиль Y](symbol_0_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [150, 1, 0, 0]
@@ -134,11 +134,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_1.png)
+![Изображение](symbol_1.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_1_x_profile.png)
-![Профиль Y](symbols/symbol_1_y_profile.png)
+![Профиль X](symbol_1_x_profile.png)
+![Профиль Y](symbol_1_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [346, 1, 0, 0]
@@ -150,11 +150,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_2.png)
+![Изображение](symbol_2.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_2_x_profile.png)
-![Профиль Y](symbols/symbol_2_y_profile.png)
+![Профиль X](symbol_2_x_profile.png)
+![Профиль Y](symbol_2_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [149, 0, 0, 0]
@@ -166,11 +166,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_3.png)
+![Изображение](symbol_3.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_3_x_profile.png)
-![Профиль Y](symbols/symbol_3_y_profile.png)
+![Профиль X](symbol_3_x_profile.png)
+![Профиль Y](symbol_3_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [174, 0, 2, 0]
@@ -182,11 +182,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_4.png)
+![Изображение](symbol_4.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_4_x_profile.png)
-![Профиль Y](symbols/symbol_4_y_profile.png)
+![Профиль X](symbol_4_x_profile.png)
+![Профиль Y](symbol_4_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [448, 84, 0, 0]
@@ -198,11 +198,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_5.png)
+![Изображение](symbol_5.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_5_x_profile.png)
-![Профиль Y](symbols/symbol_5_y_profile.png)
+![Профиль X](symbol_5_x_profile.png)
+![Профиль Y](symbol_5_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [447, 10, 0, 0]
@@ -214,11 +214,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_6.png)
+![Изображение](symbol_6.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_6_x_profile.png)
-![Профиль Y](symbols/symbol_6_y_profile.png)
+![Профиль X](symbol_6_x_profile.png)
+![Профиль Y](symbol_6_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [247, 86, 0, 0]
@@ -230,11 +230,11 @@ m_max = (max + m) / 2
 
 ## Символ 
 
-![Изображение](symbols/symbol_7.png)
+![Изображение](symbol_7.png)
 
 ### Профили:
-![Профиль X](symbols/symbol_7_x_profile.png)
-![Профиль Y](symbols/symbol_7_y_profile.png)
+![Профиль X](symbol_7_x_profile.png)
+![Профиль Y](symbol_7_y_profile.png)
 
 ### Признаки:
 - Вес каждой четверти: [180, 0, 2, 0]
